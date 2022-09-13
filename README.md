@@ -24,3 +24,4 @@ versão web e mobile do Find your Duo, uma plataforma que ajuda gamers a encontr
 - React Native
 - Tailwind
 - Expo
+- ViteJs
