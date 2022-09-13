@@ -13,7 +13,7 @@ versão web e mobile do Find your Duo, uma plataforma que ajuda gamers a encontr
 
 # Layout Desktop
 
-![Mobile-demo](imgs-readme/mobile-demo.png-demo.png "Title")
+![Mobile-demo](imgs-readme/mobile-demo.png "Title")
 
 
 # 🚀 **Techs**
