@@ -6,7 +6,15 @@ Site desenvolvido no evento da Rocketseat na trilha Ignite onde ocorre programa�
 # 💻 Sobre o projeto
 versão web e mobile do Find your Duo, uma plataforma que ajuda gamers a encontrar um parceiro ou parceira para jogar online seu game favorito, conectado a Twitch.
 
-## Layout
+# Layout Desktop
+
+![Web-demo](imgs-readme/desktop-demo.png "Title")
+
+
+# Layout Desktop
+
+![Mobile-demo](imgs-readme/mobile-demo.png-demo.png "Title")
+
 
 # 🚀 **Techs**
 
